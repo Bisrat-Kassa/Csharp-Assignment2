@@ -4,7 +4,7 @@ int num;
 string ans;
 do
 {
-    // int num;
+    
     Console.WriteLine("Enter a number you want to check");
     num = Convert.ToInt32(Console.ReadLine());
     if (num == 0)
