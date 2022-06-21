@@ -1,0 +1,15 @@
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
