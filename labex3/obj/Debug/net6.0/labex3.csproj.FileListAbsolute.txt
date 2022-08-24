@@ -1,0 +1,15 @@
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\bin\Debug\net6.0\labex3.exe
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\bin\Debug\net6.0\labex3.deps.json
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\bin\Debug\net6.0\labex3.runtimeconfig.json
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\bin\Debug\net6.0\labex3.dll
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\bin\Debug\net6.0\labex3.pdb
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.AssemblyInfoInputs.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.AssemblyInfo.cs
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.dll
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\refint\labex3.dll
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.pdb
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\labex3.genruntimeconfig.cache
+C:\Users\Bisrat\Desktop\GIthub\Csharp-Assignment2\labex3\obj\Debug\net6.0\ref\labex3.dll
